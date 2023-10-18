@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("hello git\n");
+	printf("hello git from dev branch\n");
 	return 0;
 }
